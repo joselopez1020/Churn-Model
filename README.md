@@ -2,7 +2,7 @@
 
 Predicción de Churn de clientes de un banco
 
-En este portafolio creamos un modelo que nos ayudara a solucionar un problema importante ¿el cliente se va a ir o va a continuar en la institucion?.
+En este portafolio crearemos un modelo que nos ayudara a solucionar un problema importante ¿el cliente se va a ir o va a continuar en la institución?.
 
 Para crear el modelo utilizamos:
 
